@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99082020-5d9d-442d-bb72-4361dff86582" />
+<img width="1080" height="720" alt="image" src="https://github.com/user-attachments/assets/99082020-5d9d-442d-bb72-4361dff86582" />
 
 
 SMG Before the Sequel Team's Official Page
