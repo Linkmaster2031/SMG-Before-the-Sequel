@@ -4,6 +4,8 @@
 
 SMG Before the Sequel's Official Github Page! 
 
+Current Version: Version 1.5.0.1
+
 This page will be updated with upcoming updates, releases (past and current), and sneak peaks into the mod.
 
 If you want to see these previews and get notified of updates when they come out, 
